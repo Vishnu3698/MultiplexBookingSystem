@@ -1,0 +1,5 @@
+package com.capgemini.productmanagementapp.exception;
+
+public class SellerException {
+
+}

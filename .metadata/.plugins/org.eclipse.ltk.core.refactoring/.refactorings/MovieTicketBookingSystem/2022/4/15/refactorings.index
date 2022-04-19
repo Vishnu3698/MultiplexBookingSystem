@@ -1,0 +1,6 @@
+1649053792974	Rename type 'BookingCollection'
+1649053825763	Rename type 'HallCollector'
+1649053842360	Rename type 'MoviesCollector'
+1649053866309	Rename type 'ShowsCollector'
+1649053881829	Rename type 'UserCollector'
+1649054099319	Rename package 'com.cg.movieticketbookinhsystem.collector'

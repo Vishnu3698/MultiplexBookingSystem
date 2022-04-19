@@ -1,0 +1,5 @@
+package com.capgemini.productmanagementapp.dao;
+
+public interface SellerRepository {
+
+}
